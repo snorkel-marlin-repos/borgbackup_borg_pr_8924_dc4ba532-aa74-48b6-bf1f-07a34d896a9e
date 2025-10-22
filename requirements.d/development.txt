@@ -8,7 +8,6 @@ pkgconfig
 tox
 pytest
 pytest-xdist
-coverage[toml]
 pytest-cov
 pytest-benchmark
 Cython
